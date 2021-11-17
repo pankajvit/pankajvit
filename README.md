@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/webdevpankajrai" target="blank"><img src="https://img.shields.io/twitter/follow/webdevpankajrai?logo=twitter&style=for-the-badge" alt="webdevpankajrai" /></a> </p>
 
-- 🔭 I’m currently working on **useDailyPayMonthly**
+- 🔭 I’m currently working on **some Personal React Project**
 
-- 🌱 I’m currently learning **Codeigniter 4**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **pair programming on personal projects**
 
