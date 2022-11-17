@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate salesforce developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/webdevpankajrai" target="blank"><img src="https://img.shields.io/twitter/follow/webdevpankajrai?logo=twitter&style=for-the-badge" alt="webdevpankajrai" /></a> </p>
 
-- 🔭 I’m currently working on **some Personal React Project**
+- 🔭 I’m currently working on **some Personal salesforce Project**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently exploring and going indepth through **salesforce development**
 
 - 👯 I’m looking to collaborate on **pair programming on personal projects**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@webdevpankajrai](https://medium.com/@webdevpankajrai)
 
-- 💬 Ask me about **front-end development**
+- 💬 Ask me about **Salesforce development**
 
 - 📫 How to reach me **pankajvitmca@gmail.com**
 
